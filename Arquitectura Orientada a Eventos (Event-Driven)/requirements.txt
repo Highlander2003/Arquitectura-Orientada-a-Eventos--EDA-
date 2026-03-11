@@ -1,0 +1,3 @@
+# Arquitectura Orientada a Eventos (EDA) - Dependencias
+# Este proyecto es autocontenido y usa solo la biblioteca estándar de Python.
+# No se requieren dependencias externas para ejecutar los ejemplos.
